@@ -1,3 +1,7 @@
+Copyright Archiview 2021, All Rights Reserved
+
+This website uses the HTML5UP Helios template with the following license terms.
+
 Creative Commons Attribution 3.0 Unported
 http://creativecommons.org/licenses/by/3.0/
 
